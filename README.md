@@ -18,9 +18,9 @@ r00ted [Case Study](danielosagie.com/r00ted)
 ## Get in Touch
 I'm always open to new opportunities, collaborations, or just a friendly chat! You can reach out to me via:
 
-📧 Email: danielosagie0@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/danielosagie/
-🔗 Portfolio: https://www.danielosagie.com 
+- 📧 Email: danielosagie0@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/danielosagie/
+- 🔗 Portfolio: https://www.danielosagie.com 
 
 ## Let's Connect!
 If you share similar interests or have any suggestions or feedback about my projects, feel free to connect with me!
