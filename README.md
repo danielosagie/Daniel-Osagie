@@ -1,11 +1,11 @@
 # Hey there, I'm Daniel! 👋
 
-Welcome to my GitHub profile! I'm a passionate student with a love for designing new and useful products, exploring new technologies, and building exciting projects. Here, you'll find a collection of my work, ranging from class assignments to personal projects.
+Welcome to my profile! I have a love for designing impactful products, exploring new technologies, and building exciting projects. Here, you'll find a collection of my work, ranging from class assignments to personal projects.
 
 ## About Me
 - 🎓 I'm currently majoring in Interaction Design w/ a minor in Computer Science at Kennesaw State University.
 - 💻 My main interests include UX Research, Service Design, Accessible/Equitable Design, Python, and Industrial Product Design 
-- 🌟 I'm enthusiastic about learning and collaborating on innovative projects.
+- 🌟 I'm enthusiastic about learning and collaborating on innovative and impactful projects.
 
 ## Projects
 Here are a few highlighted projects I've been working on:
