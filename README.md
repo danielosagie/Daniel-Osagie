@@ -4,7 +4,7 @@ Welcome to my profile! I have a love for designing impactful products, exploring
 
 ## About Me
 - 🎓 I'm currently majoring in Interaction Design w/ a minor in Computer Science at Kennesaw State University.
-- 💻 My main interests include UX Research, Service Design, Accessible/Equitable Design, Python, and Industrial Product Design 
+- 💻 My main interests include UX Research, Service Design, Accessible/Equitable Design, Python & TypeScript, and Industrial Product Design 
 - 🌟 I'm enthusiastic about learning and collaborating on innovative and impactful projects.
 
 ## Projects
